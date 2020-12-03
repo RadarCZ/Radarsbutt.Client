@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "ServerDebug": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TWITCH_BOT_USERNAME": "",
+        "TWITCH_BOT_OAUTH": "",
+        "TWITCH_BOT_PRIMARY_CHANNEL": "",
+        "AZURE_TTS_SUBSCRIPTION_KEY": "",
+        "DUMP_TTS_ENDPOINT": ""
+      }
+    }
+  }
+}
